@@ -9,7 +9,6 @@ Welcome to **LaravelGram**, a social media platform built with Laravel, where us
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-  - [Pull Requests](#pull-requests)
   - [Todos](#todos)
 - [Contact](#contact)
 
@@ -81,14 +80,6 @@ Open your browser and navigate to `http://localhost:8000` to start using Laravel
 ## Contributing
 
 We welcome contributions from the community! Please read the following guidelines before contributing.
-
-### Pull Requests
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 ### Todos
 
