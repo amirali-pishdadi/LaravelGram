@@ -1,0 +1,34 @@
+# Laravel environment files
+/.env
+/.env.*
+
+# Laravel vendor and composer
+/vendor/
+composer.phar
+
+# Laravel node modules
+/node_modules/
+
+# Compiled assets and public storage
+/public/storage/
+/public/hot
+/public/js/
+
+# Laravel caches
+/bootstrap/cache/
+
+# Laravel logs and other storage
+/storage/logs/
+/storage/framework/cache/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/framework/testing
+
+# IDE specific files
+/.idea/
+/.vscode/
+*.iml
+
+# OS generated files
+Thumbs.db
+*.DS_Store
