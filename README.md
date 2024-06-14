@@ -17,8 +17,6 @@ Welcome to **LaravelGram**, a social media platform built with Laravel, where us
 - 📷 Share photos
 - ❤️ Like and comment on posts
 - 📝 User profiles and activity feed
-- 🔒 Secure authentication and authorization
-- 🌐 Responsive design
 - 📊 Image upload progress bar
 - 👥 User follow functionality
 
